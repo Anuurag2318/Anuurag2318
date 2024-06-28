@@ -1,7 +1,4 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Anurag Tiwari</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuurag2318&label=Profile%20views&color=0e75b6&style=flat" alt="anuurag2318" /> </p>
 
 - 🌱 I’m currently learning **AWS Services, MERN Stack, Docker**
