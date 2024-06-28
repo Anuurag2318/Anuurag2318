@@ -1,5 +1,4 @@
 # 💫 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuurag2318&label=Profile%20views&color=0e75b6&style=flat" alt="anuurag2318" /> </p>
 
 - 🌱 I’m currently learning **AWS Services, MERN Stack, Docker**
 
