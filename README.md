@@ -11,8 +11,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pQLh0k-ergnvC19csshRnx22TCXgcRXF/view?usp=sharing](https://drive.google.com/file/d/1pQLh0k-ergnvC19csshRnx22TCXgcRXF/view?usp=sharing)
 
 - ⚡ Fun fact **I love to learn new technology.**
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anurag-tiwari2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anurag-tiwari2023" height="30" width="40" /></a>
 </p>
