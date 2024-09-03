@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/anurag-tiwari2023**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pQLh0k-ergnvC19csshRnx22TCXgcRXF/view?usp=sharing](https://drive.google.com/file/d/1pQLh0k-ergnvC19csshRnx22TCXgcRXF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PyEanhQI9i_08LjxDEboO6ezfGVd52xU/view?usp=sharing](https://drive.google.com/file/d/1PyEanhQI9i_08LjxDEboO6ezfGVd52xU/view?usp=sharing)
 
 - ⚡ Fun fact **I love to learn new technology.**
 ## 🌐 Socials:
