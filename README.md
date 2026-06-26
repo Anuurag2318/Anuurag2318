@@ -31,10 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Anuurag2318&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### Top Repositories
-<a href="https://github.com/Anuurag2318/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/Anuurag2318/Anuurag2318.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=Anuurag2318.github.io&theme=buefy" />
-</a>
+## Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=quickbite-food-delivery&theme=swift)](https://github.com/Anuurag2318/Anuurag2318)
+
