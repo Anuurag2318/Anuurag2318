@@ -38,13 +38,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/Anuurag2318/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=Anuurag2318.github.io&theme=buefy" />
 </a>
 
 
 <strong>Top Repositories</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/Anuurag2318/react-native-lottie-splash-screen)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=github-contributor-stats&theme=swift)](https://github.com/HwangTaehyun/github-contributor-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=github-contributor-stats&theme=swift)](https://github.com/Anuurag2318/github-contributor-stats)
 
