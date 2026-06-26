@@ -37,7 +37,7 @@
 <a href="https://github.com/Anuurag2318/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/Anuurag2318/anuraghazra.github.io">
+<a href="https://github.com/Anuurag2318/Anuurag2318.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=Anuurag2318.github.io&theme=buefy" />
 </a>
 
