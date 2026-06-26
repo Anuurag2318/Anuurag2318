@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anuurag2318.github.io/Portfolio/](https://anuurag2318.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, Java, Django, Flask, MongoDB**
+- 💬 Ask me about **Java, Spring Boot, PostgreSQL, Gitlab, Redis, Kafka, Microservices,Python, Django, Flask, MongoDB**
 
 - 📫 How to reach me **www.linkedin.com/in/anurag-tiwari2023**
 
