@@ -33,6 +33,6 @@
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=quickbite-food-delivery&theme=swift)](https://github.com/Anuurag2318/quickbite-food-delivery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=QuickBite&theme=swift)](https://github.com/Anuurag2318/QuickBite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuurag2318&repo=EnableMate-A-Voice-Assistant-for-Desktop-Automation&theme=swift)](https://github.com/Anuurag2318/EnableMate-A-Voice-Assistant-for-Desktop-Automation)
 
